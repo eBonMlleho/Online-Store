@@ -7,11 +7,11 @@ Use Vue.js as frontend, while using Spring Boot as a backend. We build this webs
 Spring Cloud Loadbalancer is a generic abstraction that can do the work that we used to do with Netflix’s Ribbon project which are often employed to scale the server. Although peer to peer is getting popular these days, Client-server model can still dominate market for years. And use Spring Cloud to host our application to make more scalable is our next step.
 
 ## Build Setup & How to Run
-1.	Setup and configure MySQL database
-a.	Port number
-b.	Database url
-c.	Username
-d.	Password
+Setup and configure MySQL database  
+a.	Port number  
+b.	Database url  
+c.	Username  
+d.	Password  
 
 backend\src\main\resources filling corresponding parameters.
 
