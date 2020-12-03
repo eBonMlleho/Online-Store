@@ -7,3 +7,7 @@ npm install
 npm dev run
 
 http://localhost:8080/#/signup
+
+## Architecture
+![GitHub Logo](/flowchart.png)
+Format: ![Alt Text](url)
