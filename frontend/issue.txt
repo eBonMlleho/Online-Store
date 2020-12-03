@@ -1,0 +1,3 @@
+1.http返回config-data里存在user info
+2.保持登陆状态不完善，不安全
+3.image文件保存位置
